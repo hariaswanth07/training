@@ -6,3 +6,5 @@ else:
    print("as")
    print("aswanth")
 wat
+mudinja kandu pidi
+
